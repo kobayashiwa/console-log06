@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body {
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+ul, li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+.top-wrapper {
+	background: url(../image/43338690.jpg);
+	background-size: cover;
+	padding: 320px 0 32px 0;
+}
+.logo img {
+	width: 80%;
+}
+.playIcon {
+	padding: 48px 0 160px 0;
+}
+.playIcon img {
+	width: 100px;
+}
+.scroll p {
+	margin-bottom: 24px;
+	font-weight: 300;
+}
+.scroll img {
+	width: 100px;
+}
